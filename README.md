@@ -7,7 +7,7 @@
 - Проекты:
  ```
   Я уже сделал свой первый проект под названием "Robert_Bot"
-Он предназначен для упращения работы над тг каналом и его монитицации
+Он предназначен для упращения работы над тг каналом и его монитизацации
 ```
   
 <img align="center" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/themes/hacker.svg" alt="hacker">
